@@ -6,5 +6,6 @@ package com.msb;
  */
 public class Yes {
     private String name;
+    private String age;
     private String password;
 }
